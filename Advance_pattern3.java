@@ -19,7 +19,8 @@ public class Advance_pattern3 {
 }
 }
 
-/*  OUTPUT :- 
+/*  
+OUTPUT :- 
 Enter number of rows :- 6
      1 
     1 2 
