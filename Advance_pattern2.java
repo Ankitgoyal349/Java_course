@@ -25,3 +25,20 @@ public class Advance_pattern2 {
         }
     }
 }
+
+
+/*  OUTPUT :- 
+
+ENter number of rows :- 5
+    *
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****
+   ***
+    *
+    
+     */

@@ -29,3 +29,14 @@ public class Advance_pattern1 {
         }
     }
 }
+
+/*  OUTPUT :-  
+Enter number of rows :- 4
+*      *
+**    **
+***  ***
+********
+********
+***  ***
+**    **
+*      *   */

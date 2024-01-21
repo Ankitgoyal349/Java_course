@@ -18,3 +18,14 @@ public class Advance_pattern3 {
     }
 }
 }
+
+/*  OUTPUT :- 
+Enter number of rows :- 6
+     1 
+    1 2 
+   1 2 3 
+  1 2 3 4 
+ 1 2 3 4 5 
+1 2 3 4 5 6 
+
+ */
