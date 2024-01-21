@@ -40,5 +40,5 @@ ENter number of rows :- 5
   *****
    ***
     *
-    
+
      */

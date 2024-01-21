@@ -18,3 +18,15 @@ public class array1 {
         }
     }
 }
+
+/*  OUTPUT :- 
+Enter the size of array :- 4
+Enter element 0 :- 6
+Enter element 1 :- 9
+Enter element 2 :- 3
+Enter element 3 :- 2
+6
+9
+3
+2
+ */
